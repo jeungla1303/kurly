@@ -12,3 +12,10 @@
 1. 이메일   : moonseonjong@naver.com
 2. 이름     : moonjongjs
 ``````
+
+#### 팀원(문선종)
+2023-12-06 12:17
+``````
+1. 이메일   : moonseonjong@naver.com
+2. 이름     : moonjongjs
+``````
