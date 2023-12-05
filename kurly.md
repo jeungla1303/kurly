@@ -7,7 +7,8 @@
 3. 이름     : jeungla1303
 ``````
 
-#### 팀원
+#### 팀원(정지연)
+2023-12-06
 ``````
 1. 이메일   : moonseonjong@naver.com
 2. 이름     : moonjongjs
