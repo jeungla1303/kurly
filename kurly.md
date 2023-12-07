@@ -1,5 +1,11 @@
 ### 협업
 
+
+upstream https://github.com/moonjongjs/kurly.git
+
+origin https://github.com/moonjongjs/kurly_new.git
+
+
 #### 홈 컴퓨터 작업
     - 티브 음악 들으면서
     - 컴 작업 
